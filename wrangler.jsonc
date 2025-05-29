@@ -1,3 +1,9 @@
-name = "my-worker"
-main = "_worker.js"
-compatibility_date = "2025-05-29"
+```
+{
+  "name": "worker-name",
+  "compatibility_date": "2025-05-29",
+  "assets": {
+    "directory": "_worker.js"
+  }
+}
+```
