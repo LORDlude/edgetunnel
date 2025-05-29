@@ -1,7 +1,7 @@
 {
-  "name": "worker-name",
+  "name": "edgetunnel",
   "compatibility_date": "2025-05-29",
   "assets": {
-    "directory": "_worker.js"
+    "main": "src/_worker.js"
   }
 }
