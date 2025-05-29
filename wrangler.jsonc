@@ -1,7 +1,6 @@
 {
   "name": "edgetunnel",
   "compatibility_date": "2025-05-29",
-  "assets": {
-    "main": "src/_worker.js"
-  }
+   "main": "src/_worker.js"
+  
 }
